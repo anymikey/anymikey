@@ -1,56 +1,36 @@
 <div align="center">
 
-# NIKITA <span style="color:#FF5A1F;">/</span> MYKHAILOV
-
-<sub>Software Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Full-Stack Product Developer&nbsp;&nbsp;·&nbsp;&nbsp;Tallinn, Estonia</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5A1F&height=3&width=300" />
+<img src="./assets/header.svg" width="100%" alt="Nikita Mykhailov" />
 
 </div>
 
 <br>
 
-<div align="center">
+```text
+nikita@changedlabs:~$ whoami
 
-<table width="640" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:1px solid #262626;border-top:3px solid #FF5A1F;border-radius:6px;background-color:#0a0a0a;">
-  <tr>
-    <td style="padding:24px 28px;color:#ffffff;font-family:'Courier New',monospace;font-size:14px;line-height:2;" align="left">
-      <span style="color:#FF5A1F;">nikita@changedlabs:~$</span> whoami<br>
-      <span style="color:#888888;">[role]</span>&nbsp;&nbsp;Software Engineer · Full-stack Product Developer<br>
-      <span style="color:#888888;">[lead]</span>&nbsp;&nbsp;Founder, Changed Labs · Co-founder, Intent.am<br>
-      <span style="color:#888888;">[also]</span>&nbsp;&nbsp;Motion design, VFX & 3D — Blender<br>
-      <span style="color:#888888;">[base]</span>&nbsp;&nbsp;Tallinn, Estonia
-    </td>
-  </tr>
-</table>
-
-</div>
+[role]  Software Engineer · Full-stack Product Developer
+[lead]  Founder, Changed Labs · Co-founder, Intent.am
+[also]  Motion design, VFX & 3D — Blender
+[base]  Tallinn, Estonia
+```
 
 <br>
 
-<h3 align="center">Currently Building</h3>
+### Currently Building
 
-<div align="center">
-<table width="720">
-<tr><td>
+**Changed** — Personal growth app for iOS & Android: emotional tracking, identity-based habits, and daily reflection through a customizable persona system.
+→ [changedlabs.com](https://changedlabs.com)
 
-**<span style="color:#FF5A1F;">Changed</span>** — Personal growth app for iOS & Android: emotional tracking, identity-based habits, and daily reflection through a customizable persona system. → [changedlabs.com](https://changedlabs.com)
+**Amored** — Relationship intelligence app for couples: pattern tracking, guided tasks, journaling, and intimate tools.
+→ [amoredlabs.com](https://amoredlabs.com)
 
-**<span style="color:#FF5A1F;">Amored</span>** — Relationship intelligence app for couples: pattern tracking, guided tasks, journaling, and intimate tools. → [amoredlabs.com](https://amoredlabs.com)
-
-**<span style="color:#FF5A1F;">Intent.am</span>** — AI behavioral testing platform: simulated users surface friction points and predict conversion before a single real visitor arrives. → [intent.am](https://intent.am)
-
-</td></tr>
-</table>
-</div>
+**Intent.am** — AI behavioral testing platform: simulated users surface friction points and predict conversion before a single real visitor arrives.
+→ [intent.am](https://intent.am)
 
 <br>
 
-<h3 align="center">Open Source</h3>
-
-<div align="center">
-<table width="720">
-<tr><td>
+### Open Source
 
 **[jarvis](https://github.com/anymikey/jarvis)** — Voice-driven Claude Code assistant: say "Jarvis" to chat, add "Claude Code" for real tool access.
 
@@ -62,13 +42,9 @@
 
 **[render-layer-autogen](https://github.com/anymikey/render-layer-autogen)** — Blender extension: auto-generates render layers + compositor wiring from collections.
 
-</td></tr>
-</table>
-</div>
-
 <br>
 
-<h3 align="center">Tech Stack</h3>
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF5A1F" />
@@ -80,7 +56,7 @@
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF5A1F" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=FF5A1F" />
@@ -95,13 +71,13 @@
 
 <br>
 
-<h3 align="center">Connect</h3>
+### Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anymike/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF5A1F" />
+  <a href="https://www.linkedin.com/in/anymike/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGNUExRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" />
   </a>
-  <a href="https://www.instagram.com/anymikey/" target="_blank">
+  <a href="https://www.instagram.com/anymikey/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF5A1F" />
   </a>
 </p>
