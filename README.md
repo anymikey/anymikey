@@ -2,7 +2,7 @@
 
 # NIKITA <span style="color:#FF5A1F;">/</span> MYKHAILOV
 
-<sub>Software Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Full-Stack Product Developer&nbsp;&nbsp;·&nbsp;&nbsp;Tallinn, Estonia</sub>
+<sub>Software Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Full-Stack Product Developer&nbsp;&nbsp;·&nbsp;&nbsp;Madrid, Spain</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF5A1F&height=3&width=300" />
 
