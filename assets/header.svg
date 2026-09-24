@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <rect width="1000" height="200" fill="#0a0a0a"/>
+  <text x="500" y="100" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="42" letter-spacing="3" fill="#ffffff">NIKITA <tspan fill="#FF5A1F">/</tspan> MYKHAILOV</text>
+  <text x="500" y="138" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="14" letter-spacing="2" fill="#9a9a9a">SOFTWARE ENGINEER  ·  FULL-STACK PRODUCT DEVELOPER  ·  MADRID, SPAIN</text>
+  <rect x="420" y="165" width="160" height="4" fill="#FF5A1F"/>
+</svg>
