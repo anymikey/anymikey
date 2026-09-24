@@ -66,9 +66,9 @@ nikita@changedlabs:~$ whoami
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anymikey&style=for-the-badge&color=FF5A1F&labelColor=000000&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/anymikey?style=for-the-badge&label=FOLLOWERS&color=FF5A1F&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/anymikey/jarvis?style=for-the-badge&label=JARVIS%20STARS&color=FF5A1F&labelColor=000000" alt="Jarvis Stars" />
+  <img src="https://img.shields.io/badge/YEARS%20OF%20EXPERIENCE-5%2B-FF5A1F?style=for-the-badge&labelColor=000000" alt="Years of Experience" />
+  <img src="https://img.shields.io/badge/GITHUB%20CONTRIBUTIONS-36-FF5A1F?style=for-the-badge&labelColor=000000" alt="GitHub Contributions" />
+  <img src="https://img.shields.io/badge/APP%20DOWNLOADS-10K%2B-FF5A1F?style=for-the-badge&labelColor=000000" alt="App Downloads" />
 </div>
 
 <br>
