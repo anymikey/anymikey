@@ -66,7 +66,7 @@ nikita@changedlabs:~$ whoami
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anymikey&bg_color=0a0a0a&color=FF5A1F&line=FF5A1F&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=anymikey&theme=dark&background=0A0A0A&border=262626&stroke=FF5A1F&ring=FF5A1F&fire=FF5A1F&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF5A1F&sideLabels=999999&dates=666666" alt="GitHub Streak Stats" />
 </div>
 
 <br>
