@@ -25,7 +25,7 @@ nikita@changedlabs:~$ whoami
 **Amored** — Relationship intelligence app for couples: pattern tracking, guided tasks, journaling, and intimate tools.
 → [amoredlabs.com](https://amoredlabs.com)
 
-**Intent.am** — AI behavioral testing platform: simulated users surface friction points and predict conversion before a single real visitor arrives.
+**Intent** — AI behavioral testing platform: simulated users surface friction points and predict conversion before a single real visitor arrives.
 → [intent.am](https://intent.am)
 
 <br>
