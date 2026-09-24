@@ -7,7 +7,7 @@
 <br>
 
 ```text
-nikita@changedlabs:~$ whoami
+anymike@changedlabs:~$ whoami
 
 [role]  Software Engineer · Full-stack Product Developer
 [lead]  Founder, Changed Labs · Co-founder, Intent.am
