@@ -10,7 +10,7 @@
 anymike@changedlabs:~$ whoami
 
 [role]  Software Engineer · Full-stack Product Developer
-[lead]  Founder, Changed Labs · Co-founder, Intent.am
+[lead]  Founder, Changed Labs · Co-founder, Intent
 [also]  Motion design, VFX & 3D — Blender
 [base]  Madrid, Spain
 ```
@@ -49,23 +49,23 @@ anymike@changedlabs:~$ whoami
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF5A1F" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FF5A1F" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF5A1F" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF5A1F" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=FF5A1F" />
 </p>
 
 <br>
