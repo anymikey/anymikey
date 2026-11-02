@@ -58,12 +58,13 @@ anymike@changedlabs:~$ whoami
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjRkY1QTFGIiBkPSJNMTIgMEExMiAxMiAwIDAwMCAxMmExMiAxMiAwIDAwMTIgMTIgMTIgMTIgMCAwMDEyLTEyQTEyIDEyIDAgMDAxMiAwek05LjQyNiA3LjEyYTUuNTUgNS41NSAwIDAxMS45ODUuMzh2MS4xODFhNC41IDQuNSAwIDAwLTIuMjUtLjU2NiAzLjQzOSAzLjQzOSAwIDAwLTIuNjI1IDEuMDg3IDQuMDk5IDQuMDk5IDAgMDAtMS4wMTIgMi45MDYgMy45IDMuOSAwIDAwLjk0NSAyLjc1NCAzLjIxNyAzLjIxNyAwIDAwMi40ODIgMS4wMjMgNC42NTcgNC42NTcgMCAwMDIuNDY0LS42MzRsLS4wMDQgMS4wOGE1LjU0MyA1LjU0MyAwIDAxLTIuNjI1LjU1NSA0LjIxMSA0LjIxMSAwIDAxLTMuMjI4LTEuMjk3IDQuNzkzIDQuNzkzIDAgMDEtMS4yMTItMy40MDkgNS4wMjEgNS4wMjEgMCAwMTEuMzY1LTMuNjYzIDQuNjMxIDQuNjMxIDAgMDEzLjQ3My0xLjM5MiA1LjU1IDUuNTUgMCAwMS4xMi0uMDA0IDUuNTUgNS41NSAwIDAxLjEyMiAwem01Ljg2My4xNTVoLjgzNmwtLjU1NSAyLjY1MmgxLjY2MWwuNTY3LTIuNjUyaC44MWwtLjU1NSAyLjY1MiAxLjczMi0uMDA0LS4xNS42OTdIMTcuOTFsLS40MTIgMS45OGgxLjg1MmwtLjE3Ni42OThoLTEuODE2bC0uNTggMi42MjVoLS44M2wuNTY3LTIuNjI1aC0xLjY1bC0uNTU1IDIuNjI1aC0uODFsLjU1NS0yLjYyNWgtMS43NGwuMTMxLS42OThoMS43NDhsLjQwMS0xLjk3NmgtMS44MjZsLjEzOC0uNjk3aDEuODI2em0uMTQyIDMuMzQ1TDE1IDEyLjZoMS42NzNsLjQyMy0xLjk4eiIvPjwvc3ZnPg%3D%3D" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=FF5A1F" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF5A1F" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF5A1F" />
   <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=FF5A1F" />
 </p>
